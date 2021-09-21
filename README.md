@@ -22,3 +22,5 @@ Live Feed and following a premade launch script.
 ### Future Goals:
 
 Camera is able to use Yolo object detection, however, due to low resolution and inability to fly outside. I wanted to make it follow a person. I have determine that the drone is to cheap to be able to reliably make this option work.
+
+Note: This has some coures elements from a class so thus I don't want to publicly show code. 
