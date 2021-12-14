@@ -8,13 +8,13 @@ I used Docker compose to integrated multiple docker files to create this MVC mod
 
 ## Progress Videos
 
-https://www.youtube.com/watch?v=WtX75TCK_Dw \
-**Interactive Mode**: Integrate users Inputs and buttons to communicate with drone and display information in real time. \
+https://www.youtube.com/watch?v=WtX75TCK_Dw 
+**Interactive Mode**: Integrate users Inputs and buttons to communicate with drone and display information in real time. 
 
-https://www.youtube.com/watch?v=EZLA_baFEo8 \
-**Flight plan**: Create a Script that will be sent to a backend mySQL query to follow script line by line. \
+https://www.youtube.com/watch?v=EZLA_baFEo8 
+**Flight plan**: Create a Script that will be sent to a backend mySQL query to follow script line by line. 
 
-https://www.youtube.com/watch?v=TflpQUq1sZo \
+https://www.youtube.com/watch?v=TflpQUq1sZo 
 Live Feed and following a premade launch script.
 
 <br/>
